@@ -1,4 +1,4 @@
 # PSD_to_html
 Take it as a exercise
 
-https://rahatsikz.github.io/psd_to_html/
+https://github.com/rakibul-haque/Simple_website_HTML_CSS.git
